@@ -29,7 +29,7 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 21. ágúst 2023.
 
 ## Skil
 
-Skila skal í Canvas, seinasta lagi fyrir lok dags þriðjudaginn 31. september 2023.
+Skila skal í Canvas, seinasta lagi fyrir lok dags þriðjudaginn 31. ágúst 2023.
 
 Skilaboð skulu innihalda:
 
