@@ -33,8 +33,8 @@ Skila skal í Canvas, seinasta lagi fyrir lok dags þriðjudaginn 31. ágúst 20
 
 Skilaboð skulu innihalda:
 
-- slóð á verkefni keyrandi á Netlify.
-- zip skrá með `index.html` og `about.html` skrám.
+- zip skrá með `index.html` og `about.html` skrám _eða_ hlekkur á GitHub.
+- slóð á verkefni keyrandi á Netlify sem athugasemd.
 
 ## Einkunn
 
