@@ -18,6 +18,10 @@ Síður skulu nota `utf-8` stafasett.
 
 Ef þið viljið fara lengra skulið þið passa ykkur á að vanda til verka og helst bera undir kennara eða dæmatímakennara.
 
+## Netlify
+
+Setja skal upp verkefni á Netlify með því að hlaða upp skrám með „manual deploy“ _eða_ tengja GitHub repo.
+
 ## Mat
 
 - 50% – Verkefni aðgengilegt á vef og rétt sett upp þar.
